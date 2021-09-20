@@ -1,0 +1,29 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+      font-size:30px; 
+      color: #03361B
+}
+
+h2{
+	font-size:20px; 
+	color: #AC8635
+}
+
+.big{
+	font-size:60px; 
+}
+
+.uppercase{
+	text-transform:  uppercase;
+}
+
+.big.uppercase{
+	font-size:60px; 
+	text-transform:  uppercase;
+}
+
+h2 shoujike{
+	color: #03361B;
+}
